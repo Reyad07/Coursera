@@ -1,2 +1,2 @@
-# Coursera
-Coursera classes
+# coursera-new
+Web Design Course
